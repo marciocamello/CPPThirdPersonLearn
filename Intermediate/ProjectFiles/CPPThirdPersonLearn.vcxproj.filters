@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CPPThirdPersonLearn.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{92B46027-FB29-4DB1-BF0A-13483BEF8BC8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CPPThirdPersonLearn.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CPPThirdPersonLearnEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E9AB7002-DB57-425B-8A17-F26DC9B0D4DD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CPPThirdPersonLearn">
+      <UniqueIdentifier>{D8F85904-FE0B-4CA4-8C9D-864E94B58D6C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\BatteryMan.cpp">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\BatteryMan.h">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\BatteryMan_GameMode.cpp">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\BatteryMan_GameMode.h">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearn.Build.cs">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearn.cpp">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearn.h">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearnCharacter.cpp">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearnCharacter.h">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearnGameMode.cpp">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearnGameMode.h">
+      <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

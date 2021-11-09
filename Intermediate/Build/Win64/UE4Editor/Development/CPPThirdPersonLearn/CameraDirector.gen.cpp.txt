@@ -1,0 +1,5 @@
+D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\game-development\Unreal\CPPThirdPersonLearn\Source\CPPThirdPersonLearn/CameraDirector.h
+D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Inc\CPPThirdPersonLearn\CameraDirector.generated.h

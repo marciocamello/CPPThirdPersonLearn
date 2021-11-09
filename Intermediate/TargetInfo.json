@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPPThirdPersonLearn",
+			"Path": "D:\\game-development\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearn.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPPThirdPersonLearnEditor",
+			"Path": "D:\\game-development\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearnEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
