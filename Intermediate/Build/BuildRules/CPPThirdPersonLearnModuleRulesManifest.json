@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearn\\CPPThirdPersonLearn.Build.cs",
-		"C:\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearn.Target.cs",
-		"C:\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearnEditor.Target.cs"
+		"E:\\GameDevelopment\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearn\\CPPThirdPersonLearn.Build.cs",
+		"E:\\GameDevelopment\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearn.Target.cs",
+		"E:\\GameDevelopment\\Unreal\\CPPThirdPersonLearn\\Source\\CPPThirdPersonLearnEditor.Target.cs"
 	],
-	"EngineVersion": "4.27.1"
+	"EngineVersion": "4.27.2"
 }

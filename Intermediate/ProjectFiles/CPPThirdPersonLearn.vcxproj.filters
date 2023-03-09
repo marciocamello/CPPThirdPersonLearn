@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\CPPThirdPersonLearn.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{92B46027-FB29-4DB1-BF0A-13483BEF8BC8}</UniqueIdentifier>
+      <UniqueIdentifier>{EB692A07-FA68-407C-A995-E3B8507CEDC0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\CPPThirdPersonLearn.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\CPPThirdPersonLearnEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{E9AB7002-DB57-425B-8A17-F26DC9B0D4DD}</UniqueIdentifier>
+      <UniqueIdentifier>{CBE485CA-7E42-4B77-B14C-6269CDB02D7F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +32,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\CPPThirdPersonLearn">
-      <UniqueIdentifier>{D8F85904-FE0B-4CA4-8C9D-864E94B58D6C}</UniqueIdentifier>
+      <UniqueIdentifier>{5B933A33-7712-4397-897C-2B7600A2E0D0}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\CPPThirdPersonLearn\BatteryMan.cpp">
       <Filter>Source\CPPThirdPersonLearn</Filter>
@@ -64,6 +66,24 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\CPPThirdPersonLearn\CPPThirdPersonLearnGameMode.h">
       <Filter>Source\CPPThirdPersonLearn</Filter>
+    </ClInclude>
+    <Filter Include="Source\CPPThirdPersonLearn\Private">
+      <UniqueIdentifier>{40AC3C2E-C76F-458C-B8B0-E57F3F9E2A1D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\Private\AdvancedCharacter.cpp">
+      <Filter>Source\CPPThirdPersonLearn\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\CPPThirdPersonLearn\Private\FloatingActor.cpp">
+      <Filter>Source\CPPThirdPersonLearn\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\CPPThirdPersonLearn\Public">
+      <UniqueIdentifier>{EFD29BF4-4A31-48DC-8C26-562C4574A196}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\Public\AdvancedCharacter.h">
+      <Filter>Source\CPPThirdPersonLearn\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\CPPThirdPersonLearn\Public\FloatingActor.h">
+      <Filter>Source\CPPThirdPersonLearn\Public</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

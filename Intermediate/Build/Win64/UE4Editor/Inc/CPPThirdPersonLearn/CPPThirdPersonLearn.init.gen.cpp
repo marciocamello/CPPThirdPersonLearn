@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeCPPThirdPersonLearn_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2849E913,
-				0x4ACF7468,
+				0xA10CFAC1,
+				0x5217C685,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);

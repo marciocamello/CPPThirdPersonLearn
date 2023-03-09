@@ -1,11 +1,11 @@
-C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Unreal\CPPThirdPersonLearn\Source\CPPThirdPersonLearn/BatteryMan_GameMode.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
-C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Inc\CPPThirdPersonLearn\BatteryMan_GameMode.generated.h
+E:\GameDevelopment\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\GameDevelopment\Unreal\CPPThirdPersonLearn\Source\CPPThirdPersonLearn/BatteryMan_GameMode.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameMode.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameMode.generated.h
+E:\GameDevelopment\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Inc\CPPThirdPersonLearn\BatteryMan_GameMode.generated.h

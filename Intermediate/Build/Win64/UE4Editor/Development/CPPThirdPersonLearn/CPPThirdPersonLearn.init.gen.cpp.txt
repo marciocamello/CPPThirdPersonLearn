@@ -1,3 +1,3 @@
-C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\GameDevelopment\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

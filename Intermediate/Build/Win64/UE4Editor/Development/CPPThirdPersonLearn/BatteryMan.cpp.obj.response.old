@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Inc\CPPThirdPersonLearn
-/I D:\game-development\Unreal\CPPThirdPersonLearn\Source
+/I C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Inc\CPPThirdPersonLearn
+/I C:\Unreal\CPPThirdPersonLearn\Source
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AugmentedReality
 /I Runtime\AugmentedReality\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MRMesh
@@ -266,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"D:\game-development\Unreal\CPPThirdPersonLearn\Source\CPPThirdPersonLearn\BatteryMan.cpp"
-/FI"D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h"
-/Fo"D:\game-development\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\BatteryMan.cpp.obj"
+/FI"C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\CPPThirdPersonLearnEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Unreal\CPPThirdPersonLearn\Source\CPPThirdPersonLearn\BatteryMan.cpp"
+/FI"C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\Definitions.CPPThirdPersonLearn.h"
+/Fo"C:\Unreal\CPPThirdPersonLearn\Intermediate\Build\Win64\UE4Editor\Development\CPPThirdPersonLearn\BatteryMan.cpp.obj"
 /TP
 /GR-
 /W4
